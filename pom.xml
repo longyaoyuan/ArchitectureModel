@@ -39,7 +39,7 @@
         <hystrix.dashboard.version>1.4.7.RELEASE</hystrix.dashboard.version>
         <!--        <hystrix.dashboard.version>2.1.3.RELEASE</hystrix.dashboard.version>-->
         <zuul.version>2.2.1.RELEASE</zuul.version>
-        <config.version>2.2.1.RELEASE</config.version>
+        <config.version>2.2.4.RELEASE</config.version>
         <config.client.version>2.2.1.RELEASE</config.client.version>
 
     </properties>
